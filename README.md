@@ -7,3 +7,9 @@
 > **— Abelson & Sussman**
 
 </p>
+
+<h4 align="center">My Education</h4>
+
+#### - 📌 Desenvolvedora Full-Stack in Training.
+#### - 📌 Student de ADS na Universidade de Guarulhos.
+#### - 📌 Técnica em Administração na Etec Prof. Horácio.
