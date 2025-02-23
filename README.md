@@ -8,7 +8,7 @@
 
 </p>
 
-<h3 align="center">My Education</h3>
+<h3 align="center">📚 My Education 🎓</h3>
 
 ###### - 📌 Desenvolvedora Full-Stack in Training.
 ###### - 📌 Student de ADS na Universidade de Guarulhos.
