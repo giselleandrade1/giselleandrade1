@@ -10,6 +10,6 @@
 
 <h3>My Education 📚</h3>
 
-###### - 📌 Desenvolvedora Full-Stack in Training.
-###### - 📌 Student de ADS na Universidade de Guarulhos.
-###### - 📌 Técnica em Administração na Etec Prof. Horácio.
+###### ・📌 Desenvolvedora Full-Stack in Training.
+###### ・📌 Student de ADS na Universidade de Guarulhos.
+###### ・📌 Técnica em Administração na Etec Prof. Horácio.
