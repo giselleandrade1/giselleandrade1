@@ -13,3 +13,5 @@
 ###### ・📌 Desenvolvedora Full-Stack in Training.
 ###### ・📌 Student de ADS na Universidade de Guarulhos.
 ###### ・📌 Técnica em Administração na Etec Prof. Horácio.
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E25FFFF&height=120&section=footer"/>
