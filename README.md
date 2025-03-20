@@ -20,6 +20,7 @@
 
 <h3>My Statistic 📊</h3>
 
-<img align="center">![](https://github-readme-stats.vercel.app/api?username=Giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)</img><br/>
+<div aling="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" height="100" alt="statistics in graph @giselleandrade1"/><br/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E25FFFF&height=120&section=footer"/>
