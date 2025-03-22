@@ -14,7 +14,7 @@
 
 ### 🎓 My Academic Background 📚
 
-###### <p>・📌 Desenvolvedora Full-Stack in Training.
+###### <p align="justify">・📌 Desenvolvedora Full-Stack in Training.
 ###### ・📌 Student de ADS na Universidade de Guarulhos.
 ###### ・📌 Técnica em Administração na Etec Prof. Horácio.</p>
 
