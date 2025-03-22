@@ -12,7 +12,7 @@
 
 > <p align="justify">Desde os meus 12 anos, sou apaixonada pelas áreas de: administração, desenvolvimento de sistemas e software, gestão de pessoas e tecnologia da informação — áreas que me desafiam constantemente e impulsionam meu crescimento pessoal e profissional. Minha trajetória é marcada por desafios que encaro com determinação, transformando cada obstáculo em uma oportunidade de aprendizado e evolução. Sou movida pela busca incessante por excelência, aprimorando diariamente minhas competências técnicas e estratégicas para me tornar uma profissional altamente qualificada, versátil e alinhada às inovações do mercado. Com um olhar analítico e focado em soluções, dedico-me à melhoria contínua, inovação e eficiência em tudo o que faço. Acredito que a evolução constante é o alicerce para o sucesso, e meu compromisso é sempre entregar resultados de alto impacto com qualidade, precisão e inovação.</p>
 
-<h3>My Education 📚</h3>
+<h3>My Academic Background 📚</h3>
 
 ###### ・📌 Desenvolvedora Full-Stack in Training.
 ###### ・📌 Student de ADS na Universidade de Guarulhos.
