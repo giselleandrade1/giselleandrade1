@@ -20,8 +20,7 @@
 
 <h3 align="center">My Statistic 📊</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" width=100% alt="statistics in graph @giselleandrade1"/><br><img src="https://nirzak-streak-stats.vercel.app/?user=Giselleandrade1&theme=midnight-purple&hide_border=false" width=100% alt="statistics in graph 2 @giselleandrade1"/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=Giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" width=100% alt="statistics in graph @giselleandrade1"/><br><img src="https://nirzak-streak-stats.vercel.app/?user=Giselleandrade1&theme=midnight-purple&hide_border=false" width=100% alt="statistics in graph 2 @giselleandrade1"/><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width=100% alt="statistics in graph 3 @giselleandrade1"/>
 
 ### âœï¸ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
