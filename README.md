@@ -18,6 +18,8 @@
 ###### ・📌 Student de ADS na Universidade de Guarulhos.
 ###### ・📌 Técnica em Administração na Etec Prof. Horácio.</p>
 
+
+
 <h3>My Github Statistic 📊</h3>
 
 <div align="center">
