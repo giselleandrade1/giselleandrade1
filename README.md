@@ -21,7 +21,7 @@
 <h3 align="center">My Github Statistic 📊</h3>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" width="49%" height="195px" alt="statistics in graph @giselleandrade1"/><img src="https://nirzak-streak-stats.vercel.app/?user=Giselleandrade1&theme=midnight-purple&hide_border=false" width="49%" height="195px" alt="statistics in graph 2 @giselleandrade1"/><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="center" width=65% alt="statistics in graph 3 @giselleandrade1"/><div/>
+<img src="https://github-readme-stats.vercel.app/api?username=Giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" width="49%" height="195px" alt="statistics in graph @giselleandrade1"/>  <img src="https://nirzak-streak-stats.vercel.app/?user=Giselleandrade1&theme=midnight-purple&hide_border=false" width="49%" height="195px" alt="statistics in graph 2 @giselleandrade1"/><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="center" width=65% alt="statistics in graph 3 @giselleandrade1"/><div/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Giselleandrade1&icon=0&color=6)](https://visitcount.itsvg.in)
