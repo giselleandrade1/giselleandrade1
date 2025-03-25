@@ -26,7 +26,7 @@
 > <h3>🗂️ Cursos e Programas 📚</h3>
 
 ###### <p align="justify">・📌 Especialização Back-End (java) + IA.</p>
-###### <sob align="justify">ㅤㅤㅤㅤAlura + Oracle Next Educationㅤㅤㅤㅤ</sob>
+###### <sob align="justify">ㅤㅤㅤAlura + Oracle Next Educationㅤㅤㅤ</sob>
 
 ##
 > <h3>📉 Github Estatísticas 📊</h3>
