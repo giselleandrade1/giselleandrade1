@@ -23,6 +23,11 @@
 ###### ・📌 Técnica em Administração na Etec Prof. Horácio.</p>
 
 ## 
+> <h3>🗂️ Cursos e Programas 📚</h3>
+
+###### <p align="justify">・📌Especialização Back-End (java) + IA.</p>
+
+##
 > <h3>📉 Github Estatísticas 📊</h3>
 
 <div align="center">
