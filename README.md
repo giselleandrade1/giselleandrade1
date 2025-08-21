@@ -32,7 +32,14 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" width="45%" height="195px" alt="statistics in graph @giselleandrade1"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="41%" height="195px" alt="statistics in graph 3 @giselleandrade1"/><div/>
+ 
 
+## 
+> <h3>🌐 Vamos nos conectar?</h3> 
+
+- ✉️ giselleandradelourenco@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/giselleandrades2)  
+- 🗺️ São Paulo – Brasil
 
 [![](https://visitcount.itsvg.in/api?id=Giselleandrade1&icon=0&color=6)](https://visitcount.itsvg.in)
 
