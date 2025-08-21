@@ -37,9 +37,9 @@
 ## 
 > <h3>🌐 Vamos nos conectar?</h3> 
 
-✉️ giselleandradelourenco@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/giselleandrades2)  
-🗺️ São Paulo – Brasil
+###### ・ ✉️ giselleandradelourenco@gmail.com  
+###### ・ 💼 [LinkedIn](https://www.linkedin.com/in/giselleandrades2)  
+###### ・ 🗺️ São Paulo – Brasil
 
 [![](https://visitcount.itsvg.in/api?id=Giselleandrade1&icon=0&color=6)](https://visitcount.itsvg.in)
 
