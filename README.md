@@ -1,46 +1,48 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E25FFFF&height=120&section=header">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E25FF&background=5700FF00&center=true&vCenter=true&width=500&lines=Seja+muito+bem+vindo+ao+meu+Github!;Aqui+voc%C3%AA+v%C3%AA+alguns+dos+meus+projetos!)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E25FF&background=5700FF00&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+a+Giselle+Andrade.;Bem-vindo+ao+meu+perfil+do+Github!" alt="Giselle Andrade" />
+</div>
 
-<p align="center">
-  
-> <sub align="justify">**"A programação é a arte de expressar pensamentos de maneira que um computador possa entender e que outro programador possa manter." <br><br> — Abelson & Sussman**</sub>
+### Sobre Mim
 
-</p>
+Sou apaixonada por administração, desenvolvimento de sistemas e tecnologia da informação. Minha trajetória é marcada por desafios que encaro com determinação, buscando sempre aprimorar minhas competências técnicas e estratégicas. Com um olhar analítico e focado em soluções, me dedico à melhoria contínua e à inovação em tudo o que faço.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E25FF&background=5700FF00&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Giselle+Andrade.;%C3%89+um+grande+prazer+em+conhec%C3%AA-lo!)](https://git.io/typing-svg)
+### Formação e Qualificação
 
-## 
-> <h3>💫 Sobre Mim ✨</h3>
+- **Desenvolvedora Full-Stack** (em treinamento).
+- **Estudante de Análise e Desenvolvimento de Sistemas** na Universidade de Guarulhos.
+- **Técnica em Administração** pela Etec Prof. Horácio.
+- **Especialização Back-End (Java) + IA** (Alura + Oracle Next Education).
 
-> ###### <p align="justify">Desde os meus 12 anos, sou apaixonada pelas áreas de: administração, desenvolvimento de sistemas e/ou software, gestão de pessoas e tecnologia da informação — áreas que me desafiam constantemente e impulsionam meu crescimento pessoal e profissional. Minha trajetória é marcada por desafios que encaro com determinação, transformando cada obstáculo em uma oportunidade de aprendizado e evolução. Sou movida pela busca incessante por excelência, aprimorando diariamente minhas competências técnicas e estratégicas para me tornar uma profissional altamente qualificada, versátil e alinhada às inovações do mercado. Com um olhar analítico e focado em soluções, dedico-me à melhoria contínua, inovação e eficiência em tudo o que faço. Acredito que a evolução constante é o alicerce para o sucesso, e meu compromisso é sempre entregar resultados de alto impacto com qualidade, precisão e inovação.</p>
+### Habilidades e Ferramentas
 
-## 
-> <h3>🎓 Formação Acadêmica 📚</h3>
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-###### <p align="justify">・📌 Desenvolvedora Full-Stack in Training.
-###### ・📌 Student de ADS na Universidade de Guarulhos.
-###### ・📌 Técnica em Administração na Etec Prof. Horácio.</p>
+---
 
-## 
-> <h3>🗂️ Cursos e Programas 📚</h3>
-
-###### <p align="justify">・📌 Especialização Back-End (java) + IA.</p> <sob align="justify">ㅤㅤ☝🏻ㅤAlura + Oracle Next Educationㅤㅤㅤ</sob>
-
-##
-> <h3>📉 Github Estatísticas 📊</h3>
+### Minhas Estatísticas no GitHub
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" width="45%" height="195px" alt="statistics in graph @giselleandrade1"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="41%" height="195px" alt="statistics in graph 3 @giselleandrade1"/><div/>
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=Giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" width="45%" alt="Estatísticas do GitHub" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="41%" alt="Linguagens mais usadas" />
+</div>
 
-## 
-> <h3>🌐 Vamos nos conectar?</h3> 
+---
 
-###### ・ ✉️ giselleandradelourenco@gmail.com  
-###### ・ 💼 [LinkedIn](https://www.linkedin.com/in/giselleandrades2)  
-###### ・ 🗺️ São Paulo – Brasil
+### Vamos nos conectar?
 
-[![](https://visitcount.itsvg.in/api?id=Giselleandrade1&icon=0&color=6)](https://visitcount.itsvg.in)
+- ✉️ **E-mail**: `giselleandradelourenco@gmail.com`
+- 💼 **LinkedIn**: [giselleandrades2](https://www.linkedin.com/in/giselleandrades2)
+- 🗺️ **Localização**: São Paulo, Brasil
+
+---
+
+<div align="center">
+  [![](https://visitcount.itsvg.in/api?id=Giselleandrade1&icon=0&color=6)](https://visitcount.itsvg.in)
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E25FFFF&height=120&section=footer"/>
