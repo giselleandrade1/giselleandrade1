@@ -6,6 +6,7 @@
 
 
 <p align="center">
+
 > <sub align="justify">**"A programação é a arte de expressar pensamentos de maneira que um computador possa entender e que outro programador possa manter." <br><br> — Abelson & Sussman**</sub>
 </p>
 
