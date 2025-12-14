@@ -4,8 +4,10 @@
 
 <a aling="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E25FF&width=435&lines=Welcome+to+my+Github+Repositories!;I'm+20+years+old.;I'm+from+Brazil!;I'm+an+Aspiring+Full-Stack+Developer.;I'm+a+student+of+Systems+Analysis+and+Development." alt="Typing SVG" /></a>
 
+
 <p align="center">
-> <sub align="justify">**"A programação é a arte de expressar pensamentos de maneira que um computador possa entender e que outro programador possa manter." <br><br> — Abelson & Sussman**</sub></p>
+> <sub align="justify">**"A programação é a arte de expressar pensamentos de maneira que um computador possa entender e que outro programador possa manter." <br><br> — Abelson & Sussman**</sub>
+</p>
 
 ## 
 > <h3>🎓 Formação Acadêmica 📚</h3>
