@@ -8,6 +8,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E25FF&width=435&lines=Welcome+to+my+Github+Repositories!;I'm+20+years+old.;I'm+from+Brazil!;I'm+Aspiring+Full-Stack+Developer.;I'm+a+student+of+Systems+Analysis." alt="Typing SVG" />
 </a>
 
+</div>
+
 <br>
 
 <p>
@@ -16,9 +18,8 @@
 
 </p>
 
-</div>
+<br>
 
-## 
 > <h3>🎓 Formação Acadêmica 📚</h3>
 
 ###### <p align="justify">・📌 Desenvolvedora Full-Stack in Training.
