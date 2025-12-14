@@ -19,7 +19,7 @@
 </p>
 
 <br>
-> <h3>🎓 Formação Acadêmica 📚</h3>
+<h3>🎓 Formação Acadêmica 📚</h3>
 
 ###### <p align="justify">・📌 Desenvolvedora Full-Stack in Training.
 ###### ・📌 Student de ADS na Universidade de Guarulhos.
