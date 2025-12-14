@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E25FF&width=435&lines=%3CHello%2C+World!%2F%3E;My+name+is+Giselle+Andrade!;I'm+20+years+old.;I'm+from+Brazil!+;Welcome+to+my+GitHub+repositories!)](https://git.io/typing-svg)
 
-##
-
 <p align="center">
   
 > <sub align="justify">**"A programação é a arte de expressar pensamentos de maneira que um computador possa entender e que outro programador possa manter." <br><br> — Abelson & Sussman**</sub>
