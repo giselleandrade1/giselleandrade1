@@ -4,6 +4,7 @@
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E25FF&width=435&lines=%3CHello%2C+World!%2F%3E;My+name+is+Giselle+Andrade!;I'm+20+years+old.;I'm+from+Brazil!+;Welcome+to+my+GitHub+repositories!" alt="Typing SVG"</a>
+</div>
 
 <p align="center">
   
