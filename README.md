@@ -1,18 +1,22 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=8E25FFFF&height=120&section=header&width=100%)
-
-<h2 align="center">< Hello, I'm Giselle Andrade! /></h2>
-
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E25FF&width=435&lines=Welcome+to+my+Github+Repositories!;I'm+20+years+old.;I'm+from+Brazil!;I'm+Aspiring+Full-Stack+Developer.;I'm+a+student+of+Systems+Analysis." alt="Typing SVG" /></a>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=8E25FFFF&height=120&section=header&width=100%)
+
+<h2>< Hello, I'm Giselle Andrade! /></h2>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E25FF&width=435&lines=Welcome+to+my+Github+Repositories!;I'm+20+years+old.;I'm+from+Brazil!;I'm+Aspiring+Full-Stack+Developer.;I'm+a+student+of+Systems+Analysis." alt="Typing SVG" />
+</a>
+
+<br><br>
+
+<sub>
+  <b>"A programação é a arte de expressar pensamentos de maneira que um computador possa entender e que outro programador possa manter."</b>
+  <br><br>
+  — Abelson & Sussman
+</sub>
 
 </div>
-
-
-<p align="center">
-
-> <sub align="justify">**"A programação é a arte de expressar pensamentos de maneira que um computador possa entender e que outro programador possa manter." <br><br> — Abelson & Sussman**</sub>
-</p>
 
 ## 
 > <h3>🎓 Formação Acadêmica 📚</h3>
