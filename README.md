@@ -8,8 +8,6 @@
 
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E25FF&background=5700FF00&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Giselle+Andrade.;%C3%89+um+grande+prazer+em+conhec%C3%AA-lo!)](https://git.io/typing-svg)
-
 ## 
 > <h3>🎓 Formação Acadêmica 📚</h3>
 
