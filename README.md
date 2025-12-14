@@ -19,7 +19,6 @@
 </p>
 
 <br>
-
 > <h3>🎓 Formação Acadêmica 📚</h3>
 
 ###### <p align="justify">・📌 Desenvolvedora Full-Stack in Training.
