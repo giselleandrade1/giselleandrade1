@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=8E25FFFF&height=120&section=header&width=100%)
 
-<h2><em><i><Hello, I'm Giselle Andrade!/></i></em></h2>
+<h2><em><Hello, I'm Giselle Andrade!/></em></h2>
 
 <p align="center">
 
