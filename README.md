@@ -3,8 +3,8 @@
 <h2 align="center">< Hello, I'm Giselle Andrade! /></h2>
 
 <div align="center">
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E25FF&width=435&lines=Welcome+to+my+Github+Repositories!;I'm+20+years+old.;I'm+from+Brazil!;I'm+an+Aspiring+Full-Stack+Developer.;I'm+a+student+of+Systems+Analysis+and+Development." alt="Typing SVG" /></a>
+</div>
 
 
 <p align="center">
