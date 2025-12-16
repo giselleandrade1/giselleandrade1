@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=8E25FFFF&height=120&section=header&width=100%)
 
-<h2 align="center">&lt;Hello, I'm Giselle Andrade!/&gt;</h2>
+<h2 align="center"><em>&lt;Hello, I'm Giselle Andrade!/&gt;</em></h2>
 
 <p align="center">
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-> <h4 align="justify">🎓 Formação Acadêmica 📚</h4>
+<h5 align="justify"><em>🎓 Formação Acadêmica 📚</em></h5>
 
 <sub align="justify">
 
@@ -32,7 +32,7 @@
 </sub>
 
 
-> <h4 align="justify">📖 Cursos e Programas 📚</h4>
+<h5 align="justify"><em>📖 Cursos e Programas 📚</em></h5>
 
 <sub align="justify">
 
@@ -43,7 +43,7 @@
 
 </sub>
 
-> <h4 align="justify">📊 Github Statistics 📉</h4>
+<h5 align="justify"><em>📊 Github Statistics 📉</em></h5>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" width="45%" height="195px" alt="statistics in graph @giselleandrade1"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="41%" height="195px" alt="statistics in graph 3 @giselleandrade1"/><div/>
