@@ -1,6 +1,7 @@
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=8E25FFFF&height=120&section=header&width=100%)
+
 <br>
 
 <h2><Hello, I'm Giselle Andrade!/></h2>
