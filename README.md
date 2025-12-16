@@ -18,7 +18,7 @@
 
 </p>
 
-> <h5>🎓 Formação Acadêmica 📚</h5>
+> <h4>🎓 Formação Acadêmica 📚</h4>
 
 <sub align="justify">
 
@@ -30,7 +30,7 @@
 </sub>
 
 
-> <h5>📖 Cursos e Programas 📚</h5>
+> <h4>📖 Cursos e Programas 📚</h4>
 
 <sub align="justify">
 
@@ -41,7 +41,7 @@
 
 </sub>
 
-> <h5>📊 Github Statistics 📉</h5>
+> <h4>📊 Github Statistics 📉</h4>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" width="45%" height="195px" alt="statistics in graph @giselleandrade1"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="41%" height="195px" alt="statistics in graph 3 @giselleandrade1"/><div/>
