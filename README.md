@@ -24,7 +24,7 @@
 
 <sub align="justify">
 
-<li><sob>・📌 Desenvolvedora Full-Stack in Training.</sob><br>
+<li><sub>・📌 Desenvolvedora Full-Stack in Training.</sub><br>
 <sub>Estudos Autodidatas</sub></li>
 <li>・📌 Student de Systems Analysis and Development.<br>
 <sub>Univeritas Ung</sub></li>
