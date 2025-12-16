@@ -32,7 +32,7 @@
 
 <sub align="justify">
 
-<li>・📌 Administrador de Banco de Dados.</li><sob>Instituto Federal do Rio Grande do Sul</sob>
+<li>・📌 Administrador de Banco de Dados.<sob>Instituto Federal do Rio Grande do Sul</sob></li>
 <br>
 <li>・📌 Student de Systems Analysis and Development.</li>
 
