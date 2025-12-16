@@ -37,7 +37,7 @@
 <li>・📌 Administrador de Banco de Dados.<br>
 <sob>Instituto Federal do Rio Grande do Sul</sob></li>
 <li>・📌 GenAI & Dados.<br>
-<sob>Bradesco em parceria com Dio</sob></li>
+<sob>Bradesco em parceria com a Dio</sob></li>
 
 </sub>
 
