@@ -13,9 +13,7 @@
 </div>
 
 <p>
-
 > <sub align="justify">**"A programação é a arte de expressar pensamentos de maneira que um computador possa entender e que outro programador possa manter." <br> — Abelson & Sussman**</sub>
-
 </p>
 
 <h4>🎓 Formação Acadêmica 📚</h4>
