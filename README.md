@@ -28,7 +28,7 @@
 </sub>
 
 
-> <h4>📖 Cursos e Programas 📚</h4>
+> <h4 align="justify">📖 Cursos e Programas 📚</h4>
 
 <sub align="justify">
 
