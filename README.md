@@ -36,8 +36,8 @@
 
 <li>・📌 Administrador de Banco de Dados.<br>
 <sob>Instituto Federal do Rio Grande do Sul</sob></li>
-<li>・📌 Student de Systems Analysis and Development.<br>
-<sob>Autodidata</sob></li>
+<li>・📌 GenAI & Dados.<br>
+<sob>Bradesco & Dio</sob></li>
 
 </sub>
 
