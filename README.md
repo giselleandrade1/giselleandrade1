@@ -10,8 +10,6 @@
 
 </p>
 
-</div>
-
 <p>
 
 > <sub align="justify">**"A programação é a arte de expressar pensamentos de maneira que um computador possa entender e que outro programador possa manter." <br> — Abelson & Sussman**</sub>
@@ -48,5 +46,7 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=Giselleandrade1&icon=0&color=6)](https://visitcount.itsvg.in)
+
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E25FFFF&height=120&section=footer"/>
