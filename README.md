@@ -18,7 +18,7 @@
 
 </p>
 
-<h4>🎓 Formação Acadêmica 📚</h4>
+> <h4>🎓 Formação Acadêmica 📚</h4>
 
 <sub align="justify">
 
@@ -30,7 +30,7 @@
 </sub>
 
 
-<h4>📖 Cursos e Programas 📚</h4>
+> <h4>📖 Cursos e Programas 📚</h4>
 
 <sub align="justify">
 
