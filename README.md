@@ -17,12 +17,12 @@
 
 <h3>🎓 Formação Acadêmica 📚</h3>
 
-<p align="justify">
+<sub align="justify">
 
 <li>・📌 Desenvolvedora Full-Stack in Training.</li>
 <li>・📌 Student de Systems Analysis and Development.</li>
 
-</p>
+</sub>
 
 ## 
 > <h3>💫 Sobre Mim ✨</h3>
