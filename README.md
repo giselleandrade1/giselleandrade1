@@ -22,8 +22,11 @@
 
 <sub align="justify">
 
-<li>・📌 Desenvolvedora Full-Stack in Training.</li>
-<li>・📌 Student de Systems Analysis and Development.</li>
+<li>・📌 Desenvolvedora Full-Stack in Training.<br>
+<sob>Autodidata</sob></li>
+<br>
+<li>・📌 Student de Systems Analysis and Development.<br>
+<sob>Universidade Universus Veritas Guarulhos - Univeritas Ung</sob></li>
 
 </sub>
 
