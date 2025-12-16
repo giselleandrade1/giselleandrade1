@@ -18,7 +18,7 @@
 
 <p align="justify">
 
-<li>・📌 Desenvolvedora Full-Stack in Training.1</li>
+<li>・📌 Desenvolvedora Full-Stack in Training.</li>
 <li>・📌 Student de ADS na Universidade de Guarulhos.</li>
 <li>・📌 Técnica em Administração na Etec Prof. Horácio.</li>
 
