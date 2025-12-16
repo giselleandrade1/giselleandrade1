@@ -33,7 +33,7 @@
 <sub align="justify">
 
 <li>・📌 Administrador de Banco de Dados.</li><sub>Instituto Federal do Rio Grande do Sul</sub>
-
+<br>
 <li>・📌 Student de Systems Analysis and Development.</li>
 
 </sub>
