@@ -1,7 +1,7 @@
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=8E25FFFF&height=120&section=header&width=100%)
-
+<br>
 <h2><Hello, I'm Giselle Andrade!/></h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E25FF&width=435&lines=Welcome+to+my+Github+Repository!;I'm+20+years+old.;I'm+from+Brazil!;I'm+aspiring+Full-Stack+Developer.;I'm+a+student+of+Systems+Analysis.;I+am+a+Software+Development+student.)](https://git.io/typing-svg)
