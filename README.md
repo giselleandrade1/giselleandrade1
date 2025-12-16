@@ -10,13 +10,13 @@
 
 </p>
 
-<p>
+<p align="justify">
 
 > <sub align="justify">**"A programação é a arte de expressar pensamentos de maneira que um computador possa entender e que outro programador possa manter." <br> — Abelson & Sussman**</sub>
 
 </p>
 
-> <h4>🎓 Formação Acadêmica 📚</h4>
+> <h4 align="justify">🎓 Formação Acadêmica 📚</h4>
 
 <sub align="justify">
 
@@ -39,7 +39,7 @@
 
 </sub>
 
-> <h4>📊 Github Statistics 📉</h4>
+> <h4 align="justify">📊 Github Statistics 📉</h4>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" width="45%" height="195px" alt="statistics in graph @giselleandrade1"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="41%" height="195px" alt="statistics in graph 3 @giselleandrade1"/><div/>
