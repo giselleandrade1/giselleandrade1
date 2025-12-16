@@ -19,8 +19,7 @@
 <p align="justify">
 
 <li>・📌 Desenvolvedora Full-Stack in Training.</li>
-<li>・📌 Student de Systems Analysis and Development</li>
-<li>・📌 Técnica em Administração na Etec Prof. Horácio.</li>
+<li>・📌 Student de Systems Analysis and Development.</li>
 
 </p>
 
