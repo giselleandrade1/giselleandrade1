@@ -15,7 +15,7 @@
 
 </p>
 
-<h3>🎓 Formação Acadêmica 📚</h3>
+<h4>🎓 Formação Acadêmica 📚</h4>
 
 <sub align="justify">
 
