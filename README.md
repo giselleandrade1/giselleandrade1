@@ -16,9 +16,13 @@
 
 <h3>🎓 Formação Acadêmica 📚</h3>
 
-<p align="justify">・📌 Desenvolvedora Full-Stack in Training.
-  ・📌 Student de ADS na Universidade de Guarulhos.
-・📌 Técnica em Administração na Etec Prof. Horácio.</p>
+<p align="justify">
+
+<li>・📌 Desenvolvedora Full-Stack in Training.1</li>
+<li>・📌 Student de ADS na Universidade de Guarulhos.</li>
+<li>・📌 Técnica em Administração na Etec Prof. Horácio.</li>
+
+</p>
 
 ## 
 > <h3>💫 Sobre Mim ✨</h3>
