@@ -49,8 +49,7 @@
 <img height=180em" src=" https://github-readme-stats-one-bice.vercel.app/api?username=giselleandrade1&show_icons=true&theme=midnight-purple&hide_border=true" alt="gráfico estatísticas da @giselleandrade1 no github " />
 
 
-
-<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=giselleandrade1&show_icons=true&theme=midnight-purple&hide_border=true" alt="gráfico com as linguagens mais usadas pela @giselleandrade1 no github" />
+<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=giselleandrade1&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true" alt="gráfico com as linguagens mais usadas pela @giselleandrade1 no github" />
 </div>
 
 
