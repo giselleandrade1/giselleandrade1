@@ -46,11 +46,9 @@
 <h5 align="justify"><em>📊 Github Statistics</em></h5>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" width="45%" height="195px" alt="statistics in graph @giselleandrade1"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="41%" height="195px" alt="statistics in graph 3 @giselleandrade1"/><div/>
+<img height=180em" src=" https://github-readme-stats-one-bice.vercel.app/api?username=giselleandrade1&show_icons=true&theme=midnight-purple&hide_border=true" alt="gráfico estatísticas da @giselleandrade1 no github " />
 
-
-[![](https://visitcount.itsvg.in/api?id=Giselleandrade1&icon=0&color=6)](https://visitcount.itsvg.in)
-
+<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=giselleandrade1&show_icons=true&theme=midnight-purple&hide_border=true" alt="gráfico com as linguagens mais usadas pela @giselleandrade1 no github" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E25FFFF&height=120&section=footer"/>
