@@ -26,6 +26,7 @@
 <br>
 
 <h3 align="justify"><em>🧠 Tech Stack</em></h3>
+<br>
 
 <h5 align="justify"><em>💻 Languages</em></h5>
 <p>
@@ -35,7 +36,6 @@
 <img src="https://img.shields.io/badge/Python-8E25FF?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-8E25FF?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
-
 <br>
 
 <h5 align="justify"><em>🌐 Frontend</em></h5>
@@ -46,7 +46,6 @@
 <img src="https://img.shields.io/badge/Next.js-8E25FF?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-8E25FF?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
-
 <br>
 
 <h5 align="justify"><em>⚙️ Backend</em></h5>
@@ -57,7 +56,6 @@
 <img src="https://img.shields.io/badge/Spring-8E25FF?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-8E25FF?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </p>
-
 <br>
 
 <h5 align="justify"><em>🗄️ Databases</em></h5>
@@ -67,7 +65,6 @@
 <img src="https://img.shields.io/badge/MongoDB-8E25FF?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL_Server-8E25FF?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
-
 <br>
 
 <h5 align="justify"><em>☁️ Cloud & DevOps</em></h5>
@@ -77,7 +74,6 @@
 <img src="https://img.shields.io/badge/Vercel-8E25FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-8E25FF?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
-
 <br>
 
 <h5 align="justify"><em>🛠️ Tools</em></h5>
@@ -88,7 +84,6 @@
 <img src="https://img.shields.io/badge/Figma-8E25FF?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-8E25FF?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
-
 <br>
 
 <h3 align="justify"><em>📂 Featured Projects</em></h3>
