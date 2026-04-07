@@ -97,21 +97,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
-
-<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=giselleandrade1&theme=midnight-purple&hide_border=false)
-
-<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=giselleandrade1&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
-<br>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giselleandrade1&layout=compact&theme=midnight-purple&hide_border=true"/>
+![Giselle Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=giselleandrade1&show_icons=true&theme=dark)
 
 </div>
 
