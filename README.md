@@ -93,8 +93,19 @@
 <br>
 
 <h3 align="justify"><em>📊 GitHub Stats</em></h3>
+<br>
 
 <div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
+
+<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=giselleandrade1&theme=midnight-purple&hide_border=false)
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=giselleandrade1&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api?username=giselleandrade1&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
