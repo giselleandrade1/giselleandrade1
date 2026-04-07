@@ -108,7 +108,7 @@
 
 <h3 align="justify"><em>🎯 Career Goal</em></h3>
 
-<p align="justify">To work as a **Full Stack / Backend Developer**, building scalable, high-performance and impactful systems.</p>
+<p align="justify">To work as a <i>Full Stack / Backend Developer</i>, building scalable, high-performance and impactful systems.</p>
 
 ---
 
