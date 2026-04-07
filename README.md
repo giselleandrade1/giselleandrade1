@@ -27,7 +27,6 @@
 
 <h3 align="justify"><em>🧠 Tech Stack</em></h3>
 <br>
-
 <h5 align="justify"><em>💻 Languages</em></h5>
 <p>
 <img src="https://img.shields.io/badge/Java-8E25FF?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -37,7 +36,6 @@
 <img src="https://img.shields.io/badge/PHP-8E25FF?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 <br>
-
 <h5 align="justify"><em>🌐 Frontend</em></h5>
 <p>
 <img src="https://img.shields.io/badge/HTML5-8E25FF?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -47,7 +45,6 @@
 <img src="https://img.shields.io/badge/Tailwind-8E25FF?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 <br>
-
 <h5 align="justify"><em>⚙️ Backend</em></h5>
 <p>
 <img src="https://img.shields.io/badge/Node.js-8E25FF?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -57,7 +54,6 @@
 <img src="https://img.shields.io/badge/JWT-8E25FF?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </p>
 <br>
-
 <h5 align="justify"><em>🗄️ Databases</em></h5>
 <p>
 <img src="https://img.shields.io/badge/MySQL-8E25FF?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -66,7 +62,6 @@
 <img src="https://img.shields.io/badge/SQL_Server-8E25FF?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 <br>
-
 <h5 align="justify"><em>☁️ Cloud & DevOps</em></h5>
 <p>
 <img src="https://img.shields.io/badge/AWS-8E25FF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -75,7 +70,6 @@
 <img src="https://img.shields.io/badge/Docker-8E25FF?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 <br>
-
 <h5 align="justify"><em>🛠️ Tools</em></h5>
 <p>
 <img src="https://img.shields.io/badge/Git-8E25FF?style=for-the-badge&logo=git&logoColor=white"/>
@@ -88,16 +82,16 @@
 
 <h3 align="justify"><em>📂 Featured Projects</em></h3>
 
-🔗 Portfolio  
+<h5 align="justify"><em>🔗 Portfolio</em></h5>
 https://giselleandrade1-dev.vercel.app/
 
-🔗 Venux Bijoux  
+<h5 align="justify"><em>🔗 Venux Bijoux</em></h5>
 https://venuxbijoux-app.vercel.app/
 
-🔗 Gisten Lixt  
+<h5 align="justify"><em>🔗 Gisten Lixt</em></h5>
 https://gisten-lixt.vercel.app/
 
-🔗 Kinvo Test  
+<h5 align="justify"><em>🔗 Kinvo Test</em></h5>
 https://kinvofrontendtest.vercel.app/
 
 <br>
