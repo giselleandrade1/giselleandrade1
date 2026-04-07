@@ -23,11 +23,11 @@
 
 📍 São Paulo, SP - Brazil.
 
----
+<br>
 
-## 🧠 Tech Stack
+<h3 align="justify"><em>🧠 Tech Stack</em></h3>
 
-### 💻 Languages
+<h5 align="justify"><em>💻 Languages</em></h5>
 <p>
 <img src="https://img.shields.io/badge/Java-8E25FF?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-8E25FF?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -36,9 +36,9 @@
 <img src="https://img.shields.io/badge/PHP-8E25FF?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
----
+<br>
 
-### 🌐 Frontend
+<h5 align="justify"><em>🌐 Frontend</em></h5>
 <p>
 <img src="https://img.shields.io/badge/HTML5-8E25FF?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-8E25FF?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -47,9 +47,9 @@
 <img src="https://img.shields.io/badge/Tailwind-8E25FF?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
----
+<br>
 
-### ⚙️ Backend
+<h5 align="justify"><em>⚙️ Backend</em></h5>
 <p>
 <img src="https://img.shields.io/badge/Node.js-8E25FF?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-8E25FF?style=for-the-badge&logo=express&logoColor=white"/>
@@ -58,9 +58,9 @@
 <img src="https://img.shields.io/badge/JWT-8E25FF?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
----
+<br>
 
-### 🗄️ Databases
+<h5 align="justify"><em>🗄️ Databases</em></h5>
 <p>
 <img src="https://img.shields.io/badge/MySQL-8E25FF?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-8E25FF?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -68,9 +68,9 @@
 <img src="https://img.shields.io/badge/SQL_Server-8E25FF?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
----
+<br>
 
-### ☁️ Cloud & DevOps
+<h5 align="justify"><em>☁️ Cloud & DevOps</em></h5>
 <p>
 <img src="https://img.shields.io/badge/AWS-8E25FF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-8E25FF?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
@@ -78,9 +78,9 @@
 <img src="https://img.shields.io/badge/Docker-8E25FF?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
----
+<br>
 
-### 🛠️ Tools
+<h5 align="justify"><em>🛠️ Tools</em></h5>
 <p>
 <img src="https://img.shields.io/badge/Git-8E25FF?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-8E25FF?style=for-the-badge&logo=github&logoColor=white"/>
@@ -89,9 +89,9 @@
 <img src="https://img.shields.io/badge/Notion-8E25FF?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
 
----
+<br>
 
-## 📂 Featured Projects
+<h3 align="justify"><em>📂 Featured Projects</em></h3>
 
 🔗 Portfolio  
 https://giselleandrade1-dev.vercel.app/
@@ -105,27 +105,29 @@ https://gisten-lixt.vercel.app/
 🔗 Kinvo Test  
 https://kinvofrontendtest.vercel.app/
 
----
+<br>
 
-## 📊 GitHub Stats
+<h3 align="justify"><em>📊 GitHub Stats</em></h3>
 
 <div align="center">
 
 <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api?username=giselleandrade1&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
+<br>
+
 <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giselleandrade1&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
+<br>
+
+<h3 align="justify"><em>🎯 Career Goal</em></h3>
+
+<p align="justify">To work as a **Full Stack / Backend Developer**, building scalable, high-performance and impactful systems.</p>
+
 ---
 
-## 🎯 Career Goal
-
-To work as a **Full Stack / Backend Developer**, building scalable, high-performance and impactful systems.
-
----
-
-## 🌐 Contact
+<h3 align="justify"><em>🌐 Contact</em></h3>
 
 📧 giselleandradelourenco@gmail.com  
 🔗 linkedin.com/in/giselleandrades2  
