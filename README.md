@@ -82,13 +82,13 @@
 
 <h3 align="justify"><em>📂 Featured Projects</em></h3>
 
-<h5 align="justify"><em>🔗 Portfolio -</em></h5> https://giselleandrade1-dev.vercel.app/
+<h5 align="justify"><em>🔗 Portfolio -></em></h5>https://giselleandrade1-dev.vercel.app/
 
-<h5 align="justify"><em>🔗 Venux Bijoux -</em></h5> https://venuxbijoux-app.vercel.app/
+<h5 align="justify"><em>🔗 Venux Bijoux -></em></h5>https://venuxbijoux-app.vercel.app/
 
-<h5 align="justify"><em>🔗 Gisten Lixt -</em></h5> https://gisten-lixt.vercel.app/
+<h5 align="justify"><em>🔗 Gisten Lixt -></em></h5>https://gisten-lixt.vercel.app/
 
-<h5 align="justify"><em>🔗 Kinvo Test -</em></h5> https://kinvofrontendtest.vercel.app/
+<h5 align="justify"><em>🔗 Kinvo Test -></em></h5>https://kinvofrontendtest.vercel.app/
 
 <br>
 
