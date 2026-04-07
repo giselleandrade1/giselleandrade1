@@ -97,11 +97,11 @@
 
 <div align="center">
   
-<img height="100%" width="100%" src="https://github-readme-stats-one-bice.vercel.app/api?username=giselleandrade1&show_icons=true&theme=midnight-purple&hide_border=true" alt="gráfico com as estatísticas dos meus repositórios da @giselleandrade1 no github" />
+<img height="50%" width="100%" src="https://github-readme-stats-one-bice.vercel.app/api?username=giselleandrade1&show_icons=true&theme=midnight-purple&hide_border=true" alt="gráfico com as estatísticas dos meus repositórios da @giselleandrade1 no github" />
 
 <br>
 
-<img height="100%" width="100%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=giselleandrade1&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true" alt="gráfico com as linguagens mais usadas pela @giselleandrade1 no github" />
+<img height="50%" width="100%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=giselleandrade1&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true" alt="gráfico com as linguagens mais usadas pela @giselleandrade1 no github" />
 
 </div>
 
