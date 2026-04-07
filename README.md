@@ -97,7 +97,7 @@
 
 <div align="center">
 
-![Giselle Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=giselleandrade1&show_icons=true&theme=dark)
+<img height="100%" src="https://github-readme-stats.vercel.app/api?username=giselleandrade1&show_icons=true&theme=dark" alt="Giselle Andrade's Stats" />
 
 </div>
 
