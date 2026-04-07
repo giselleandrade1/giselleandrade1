@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=8E25FFFF&height=120&section=header&width=100%)
 
-<h2 align="center"><em>&lt;Hello, I'm Giselle Andrade!/&gt;</em></h2>
+
 
 <p align="center">
 
@@ -66,7 +66,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8E25FFFF&height=120&section=header"/>
 
-# 👩🏽‍💻 Giselle Andrade
+<h1 align="center"><em>&lt;Hello, I'm 👩🏻‍💻 Giselle Andrade!/&gt;</em></h1>
 
 ### Full Stack Developer in Progress • Backend Focus • Java & JavaScript
 
