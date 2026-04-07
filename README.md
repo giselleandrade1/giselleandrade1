@@ -74,9 +74,7 @@
 
 </div>
 
----
-
-## 🚀 About Me
+<h3 align="justify"><em>🚀 About Me</em></h3>
 
 💻 Full Stack Developer in training, focused on building **scalable and efficient web applications**.
 
