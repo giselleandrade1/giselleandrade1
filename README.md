@@ -21,7 +21,7 @@
 
 ⚡ Currently developing real-world projects and improving my skills through hands-on experience.
 
-📍 São Paulo, Brazil  
+📍 São Paulo, SP - Brazil.
 
 ---
 
